@@ -1,3 +1,3 @@
-# Guide
+# Explained easily
 
-Good project start for the testing of readthedocs.
+Here is a Good project start for the testing of readthedocs. Truly an amazing platform for all your needs.
